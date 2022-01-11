@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import Card from '../components/Card';
 
-const API = 'http://www.omdbapi.com/?i=tt3896198&apikey=a40a5853'
+const API = 'https://www.omdbapi.com/?i=tt3896198&apikey=a40a5853'
 
 const List = () => {
 
